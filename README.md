@@ -14,4 +14,4 @@ This code in this repository simulates the triangulation of one-line corresponde
 
 - Felix Rydell <felixry@kth.se>
 - Elima Shehu <elima.shehu@mis.mpg.de>
-- Angelica Torres <angelica.torres@mis.mpg.de>
+- Angélica Torres <angelica.torres@mis.mpg.de>
